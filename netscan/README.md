@@ -22,4 +22,4 @@ pip install subprocess
 
 ## Disclaimer
 
-use this script responsibly and only on networks for which you have proper authorisation. Scanning networks without proper authorisation may be against your network's policy or even illegal in some jurisdictions.
+Use this script responsibly and only on networks for which you have proper authorisation. Scanning networks without proper authorisation may be against your network's policy or even illegal in some jurisdictions.
